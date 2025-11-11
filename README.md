@@ -9,8 +9,8 @@ association rule mining, anomaly detection, and model evaluation.
 - Decision Tree Classification
 - Naïve Bayes Classification
 - Neural Network Classification
-- Clustering (e.g., K-Means)
-- Association Rule Mining (Apriori)
+- Clustering - K-Means,DBSCAN, hierarchical)
+- Association Rule Mining
 - Anomaly Detection Techniques
 - Model Overfitting and Performance Evaluation
 
